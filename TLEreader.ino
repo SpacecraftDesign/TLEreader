@@ -2,8 +2,8 @@
 #include <ESP8266HTTPClient.h>
 
 
-const char* ssid = "SFR_B228";
-const char* password = "9kpm59hjht6cay63arwa";
+const char* ssid = "yourSSID";    // fill in with your wifi network name
+const char* password = "yourPASSWORD"; // fill in with you wifi network password
 char servername[]="celestrak.com";
 
 WiFiClient client;
