@@ -1,3 +1,3 @@
 # TLEreader
 
-Contains starter code for assignments
+Contains Starter code for assignments
