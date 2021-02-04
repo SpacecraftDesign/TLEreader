@@ -1,3 +1,5 @@
+# Using files given in 3(a) since I was unable to output to serial monitor in HW 1.
+
 %%
 % Two-line element set
 close all
@@ -22,7 +24,7 @@ inc = str2num(L2c(1,9:16));
 
 
 % Calculating the true anomaly requires Newton Rhapson mehtod, uncomment the following to calculate true anomaly from Eccentric anomaly (E)
-% Calculate the eccentric anomaly using Mean anomaly (M). True anomaly can then be calculated form the Eccentric Anomaly. 
+% Calculate the eccentric anomaly using Mean anomaly (M). True anomaly can then be calculated form the Eccentric Anomaly.
 %err = 1e-10;            %Calculation Error
 %E0 = M; t =1;
 %itt = 0;
